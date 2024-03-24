@@ -8,7 +8,10 @@ Geração de relatórios financeiros
 Monitoramento do fluxo de caixa em tempo real
 
 # Tecnologias Utilizadas:
-
+Frontend: JavaScript
+Backend: Node.js
+Banco de Dados: MySQL
+Ferramenta de Prototipagem: Figma
 
 # Evidências:
 As evidências relacionadas à ação, incluindo registro fotográfico e documentos de entrega parcial e final, podem ser encontradas na pasta "evidencias" deste repositório.
