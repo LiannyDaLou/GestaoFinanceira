@@ -1,7 +1,7 @@
 # Etapa 1: Entrega Parcial
 ---
 - **Formação de Grupos:**
-- ✅
+  - ✅
 
 - **Definição do Tema e Público-Alvo:**
   - Escolher o público-alvo: MEI, empreendedor informal ou ONG.✅
