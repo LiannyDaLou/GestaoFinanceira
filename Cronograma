@@ -17,7 +17,7 @@
   - Postar as evidências em um repositório público do GitHub. ❌
 
 - **Desenvolvimento dos Artefatos:**
-  - Elaborar o Diagrama de Casos de Uso. ❌
+  - Elaborar o Diagrama de Casos de Uso. ✅
   - Definir detalhadamente os Casos de Uso principais. ❌
   - Desenhar a Arquitetura do Sistema. ❌
   - Projetar o Banco de Dados (DER e MER). ❌
@@ -26,8 +26,8 @@
 - **Elaboração do Relatório Parcial:**
   - Capa ✅
   - Introdução ✅
-  - Objetivo ❌
-  - Projeto ❌
+  - Objetivo ✅
+  - Projeto ✅
   - Incluir os artefatos desenvolvidos no relatório. ❌
   - Redigir uma breve introdução para cada artefato. ❌
   - Concluir a parte de projeto. ❌
