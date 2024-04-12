@@ -12,15 +12,15 @@
   - Garantir o desenvolvimento de um sistema WEB sem remuneração. ✅
 
 - **Coleta de Evidências:**
-  - Registrar fotográfico da interação com a entidade público-alvo. ❌
-  - Desenvolver o código-fonte do sistema e documentos de entrega parcial. ❌
+  - Registrar fotográfico da interação com a entidade público-alvo. ✅
+  - Desenvolver o código-fonte do sistema e documentos de entrega parcial. ❌ (Etapa2)
   - Postar as evidências em um repositório público do GitHub. ✅
 
 - **Desenvolvimento dos Artefatos:**
   - Elaborar o Diagrama de Casos de Uso. ✅
   - Definir detalhadamente os Casos de Uso principais. ✅
-  - Desenhar a Arquitetura do Sistema. ❌
-  - Projetar o Banco de Dados (DER e MER). ❌
+  - Desenhar a Arquitetura do Sistema. ❌(Etapa2)
+  - Projetar o Banco de Dados (DER e MER). ❌(Etapa2)
   - Prototipar as interfaces do sistema utilizando a ferramenta Figma. ✅
 
 - **Elaboração do Relatório Parcial:**
@@ -28,9 +28,9 @@
   - Introdução ✅
   - Objetivo ✅
   - Projeto ✅
-  - Incluir os artefatos desenvolvidos no relatório. ❌
-  - Redigir uma breve introdução para cada artefato. ❌
-  - Concluir a parte de projeto. ❌
+  - Incluir os artefatos desenvolvidos no relatório. ✅
+  - Redigir uma breve introdução para cada artefato. ✅
+  - Concluir a parte de projeto. ✅
 
 # Etapa 2: Entrega Final
 ---
